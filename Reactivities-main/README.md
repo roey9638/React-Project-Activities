@@ -1,8 +1,6 @@
 # Reactivities
 A web application focus on social activities. User can register/login/logout. Users can upload a photo and create a user profile page. Users can post an activity. Users can attend to other's activities. Users can follow/unfollow other people. Users can chat with people.
-- Learned from [Udemy Course](https://www.udemy.com/course/complete-guide-to-building-an-app-with-net-core-and-react/): Complete guide to building an app with .Net Core and React
 - Deployed to [Azure](https://reactivitiesplus.azurewebsites.net/)
-- Deployed to [Linux](http://167.71.116.142/)
 
 ## The C#/.NET/React technologies used in this project include:
 - Multi-project solution
